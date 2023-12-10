@@ -1,0 +1,12 @@
+streamlit
+os
+cv2
+numpy
+pandas
+seaborn
+tqdm
+tensorflow
+matplotlib
+scikit-learn
+scikit-multilearn
+random
